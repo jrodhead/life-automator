@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "wordType": "adjective1",
+    "wordTypeExample": "'white' in the phrase 'a white house'",
+    "prompt": "Enter an adjective: ",
+    "helpText": "An adjective is a word that describes a noun or noun phrase. Its semantic role is to change information given by the noun."
+  },
+  {
+    "id": 2,
+    "wordType": "adjective2",
+    "wordTypeExample": "'beautiful' in the phrase 'a beautiful sunset'",
+    "prompt": "Enter another adjective: ",
+    "helpText": "An adjective is a word that describes a noun or noun phrase. Its semantic role is to change information given by the noun."
+  },
+  {
+    "id": 3,
+    "wordType": "noun1",
+    "wordTypeExample": "'cat' in the phrase 'a black cat'",
+    "prompt": "Enter a noun: ",
+    "helpText": "A noun is a word that represents a person, place, thing, or idea. It can be a concrete or abstract entity."
+  },
+  {
+    "id": 4,
+    "wordType": "noun2",
+    "wordTypeExample": "'tree' in the phrase 'a tall tree'",
+    "prompt": "Enter another noun: ",
+    "helpText": "A noun is a word that represents a person, place, thing, or idea. It can be a concrete or abstract entity."
+  },
+  {
+    "id": 5,
+    "wordType": "verb1",
+    "wordTypeExample": "'run' in the phrase 'She runs every morning.'",
+    "prompt": "Enter a verb: ",
+    "helpText": "A verb is a word that describes an action, occurrence, or state of being. It conveys the action or the existence of the subject."
+  },
+  {
+    "id": 6,
+    "wordType": "verb2",
+    "wordTypeExample": "'sing' in the phrase 'He sings beautifully.'",
+    "prompt": "Enter another verb: ",
+    "helpText": "A verb is a word that describes an action, occurrence, or state of being. It conveys the action or the existence of the subject."
+  },
+  {
+    "id": 7,
+    "wordType": "pokemon1",
+    "wordTypeExample": "'Pikachu' in the phrase 'a cute Pikachu'",
+    "prompt": "Enter the name of a Pokemon: ",
+    "helpText": "A Pokemon is a fictional creature that can be captured and trained by trainers in the Pokemon world. Enter the name of a Pokemon you like."
+  },
+  {
+    "id": 8,
+    "wordType": "pokemon2",
+    "wordTypeExample": "'Charizard' in the phrase 'a powerful Charizard'",
+    "prompt": "Enter the name of another Pokemon: ",
+    "helpText": "A Pokemon is a fictional creature that can be captured and trained by trainers in the Pokemon world. Enter the name of a Pokemon you like."
+  },
+  {
+    "id": 9,
+    "wordType": "person1",
+    "wordTypeExample": "'Ash' in the phrase 'a determined Ash'",
+    "prompt": "Enter a person's name: ",
+    "helpText": "Enter the name of a person you'd like to include in the story."
+  },
+  {
+    "id": 10,
+    "wordType": "person2",
+    "wordTypeExample": "'Misty' in the phrase 'a brave Misty'",
+    "prompt": "Enter another person's name: ",
+    "helpText": "Enter the name of another person you'd like to include in the story."
+  }
+]
