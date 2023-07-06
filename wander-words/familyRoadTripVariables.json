@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "wordType": "adjective1",
+    "wordTypeExample": "'fun' in the phrase 'a fun day'",
+    "prompt": "Enter an adjective: ",
+    "helpText": "An adjective is a word that describes a noun or noun phrase. It adds more information or details to the sentence."
+  },
+  {
+    "id": 2,
+    "wordType": "noun1",
+    "wordTypeExample": "'minivan' in the phrase 'a spacious minivan'",
+    "prompt": "Enter a noun: ",
+    "helpText": "A noun is a word that represents a person, place, thing, or idea. It is a basic building block of a sentence."
+  },
+  {
+    "id": 3,
+    "wordType": "noun2",
+    "wordTypeExample": "'beach' in the phrase 'a beautiful beach'",
+    "prompt": "Enter another noun: ",
+    "helpText": "A noun is a word that represents a person, place, thing, or idea. It helps provide context or describe a location."
+  },
+  {
+    "id": 4,
+    "wordType": "person1",
+    "wordTypeExample": "'Emma' in the phrase 'happy Emma'",
+    "prompt": "Enter a family member's name: ",
+    "helpText": "Enter the name of a family member participating in the road trip story."
+  },
+  {
+    "id": 5,
+    "wordType": "person2",
+    "wordTypeExample": "'Alex' in the phrase 'adventurous Alex'",
+    "prompt": "Enter another family member's name: ",
+    "helpText": "Enter the name of another family member participating in the road trip story."
+  },
+  {
+    "id": 6,
+    "wordType": "person3",
+    "wordTypeExample": "'Sophia' in the phrase 'enthusiastic Sophia'",
+    "prompt": "Enter another family member's name: ",
+    "helpText": "Enter the name of another family member participating in the road trip story."
+  },
+  {
+    "id": 7,
+    "wordType": "person4",
+    "wordTypeExample": "'Jacob' in the phrase 'curious Jacob'",
+    "prompt": "Enter another family member's name: ",
+    "helpText": "Enter the name of another family member participating in the road trip story."
+  },
+  {
+    "id": 8,
+    "wordType": "adjective2",
+    "wordTypeExample": "'scenic' in the phrase 'a scenic view'",
+    "prompt": "Enter another adjective: ",
+    "helpText": "An adjective is a word that describes a noun or noun phrase. It provides more details or characteristics to enhance the story."
+  },
+  {
+    "id": 9,
+    "wordType": "noun3",
+    "wordTypeExample": "'mountain' in the phrase 'a towering mountain'",
+    "prompt": "Enter another noun: ",
+    "helpText": "A noun is a word that represents a person, place, thing, or idea. It helps describe a feature of the surroundings."
+  },
+  {
+    "id": 10,
+    "wordType": "noun4",
+    "wordTypeExample": "'waterfall' in the phrase 'a stunning waterfall'",
+    "prompt": "Enter another noun: ",
+    "helpText": "A noun is a word that represents a person, place, thing, or idea. It adds a natural element to the story."
+  },
+  {
+    "id": 11,
+    "wordType": "verb1",
+    "wordTypeExample": "'play' in the phrase 'They play games'",
+    "prompt": "Enter a verb: ",
+    "helpText": "A verb is a word that describes an action or state of being. It signifies an activity or something the family members do together."
+  },
+  {
+    "id": 12,
+    "wordType": "verb2",
+    "wordTypeExample": "'sing' in the phrase 'They sing songs'",
+    "prompt": "Enter another verb: ",
+    "helpText": "A verb is a word that describes an action or state of being. It adds an interactive and lively element to the family's journey."
+  },
+  {
+    "id": 13,
+    "wordType": "noun5",
+    "wordTypeExample": "'pancakes' in the phrase 'delicious pancakes'",
+    "prompt": "Enter a noun: ",
+    "helpText": "A noun is a word that represents a person, place, thing, or idea. It refers to a specific food item the family enjoys on the road trip."
+  },
+  {
+    "id": 14,
+    "wordType": "noun6",
+    "wordTypeExample": "'treasure' in the phrase 'a hidden treasure'",
+    "prompt": "Enter another noun: ",
+    "helpText": "A noun is a word that represents a person, place, thing, or idea. It signifies a mysterious object or discovery the family encounters during the journey."
+  },
+  {
+    "id": 15,
+    "wordType": "noun7",
+    "wordTypeExample": "'bridge' in the phrase 'an old bridge'",
+    "prompt": "Enter another noun: ",
+    "helpText": "A noun is a word that represents a person, place, thing, or idea. It adds a sense of adventure to the story."
+  },
+  {
+    "id": 16,
+    "wordType": "noun8",
+    "wordTypeExample": "'lake' in the phrase 'a serene lake'",
+    "prompt": "Enter another noun: ",
+    "helpText": "A noun is a word that represents a person, place, thing, or idea. It signifies a peaceful location where the family rests and enjoys their campfire."
+  }
+]
