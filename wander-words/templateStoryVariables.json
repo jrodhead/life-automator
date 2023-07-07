@@ -1,30 +1,23 @@
 [
   {
-    "id": 2,
+    "id": 1,
     "wordType": "noun1",
     "wordTypeExample": "'minivan' in the phrase 'a spacious minivan'",
-    "prompt": "Enter a noun: ",
+    "prompt": "Enter a noun",
     "helpText": "A noun is a word that represents a person, place, thing, or idea. It is a basic building block of a sentence."
   },
   {
-    "id": 11,
+    "id": 2,
     "wordType": "verb1",
     "wordTypeExample": "'play' in the phrase 'They play games'",
-    "prompt": "Enter a verb: ",
+    "prompt": "Enter a verb",
     "helpText": "A verb is a word that describes an action or state of being. It signifies an activity or something the family members do together."
   },
   {
-    "id": 1,
+    "id": 3,
     "wordType": "adjective1",
     "wordTypeExample": "'fun' in the phrase 'a fun day'",
-    "prompt": "Enter an adjective: ",
+    "prompt": "Enter an adjective",
     "helpText": "An adjective is a word that describes a noun or noun phrase. It adds more information or details to the sentence."
-  },
-  {
-    "id": 4,
-    "wordType": "person1",
-    "wordTypeExample": "'Emma' in the phrase 'happy Emma'",
-    "prompt": "Enter a family member's name: ",
-    "helpText": "Enter the name of a family member participating in the road trip story."
   }
 ]
