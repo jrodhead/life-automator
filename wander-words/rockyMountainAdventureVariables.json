@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "wordType": "familyMember1",
+    "wordTypeExample": "Ben",
+    "prompt": "Enter the name of a family member: ",
+    "helpText": "Enter the name of a family member who will be part of the story."
+  },
+  {
+    "id": 2,
+    "wordType": "familyMember2",
+    "wordTypeExample": "Owen",
+    "prompt": "Enter the name of another family member: ",
+    "helpText": "Enter the name of another family member who will be part of the story."
+  },
+  {
+    "id": 3,
+    "wordType": "familyMember3",
+    "wordTypeExample": "Emily",
+    "prompt": "Enter the name of another family member: ",
+    "helpText": "Enter the name of another family member who will be part of the story."
+  },
+  {
+    "id": 4,
+    "wordType": "familyMember4",
+    "wordTypeExample": "Lily",
+    "prompt": "Enter the name of another family member: ",
+    "helpText": "Enter the name of another family member who will be part of the story."
+  },
+  {
+    "id": 5,
+    "wordType": "noun1",
+    "wordTypeExample": "backpack",
+    "prompt": "Enter a noun: ",
+    "helpText": "Enter a noun that will be part of the story."
+  },
+  {
+    "id": 6,
+    "wordType": "noun2",
+    "wordTypeExample": "compass",
+    "prompt": "Enter another noun: ",
+    "helpText": "Enter another noun that will be part of the story."
+  },
+  {
+    "id": 7,
+    "wordType": "adjective1",
+    "wordTypeExample": "breathtaking",
+    "prompt": "Enter an adjective: ",
+    "helpText": "Enter an adjective that will describe something in the story."
+  },
+  {
+    "id": 8,
+    "wordType": "adjective2",
+    "wordTypeExample": "thrilling",
+    "prompt": "Enter another adjective: ",
+    "helpText": "Enter another adjective that will describe something in the story."
+  },
+  {
+    "id": 9,
+    "wordType": "animal1",
+    "wordTypeExample": "bear",
+    "prompt": "Enter the name of an animal: ",
+    "helpText": "Enter the name of an animal that can be found in the Rocky Mountains."
+  },
+  {
+    "id": 10,
+    "wordType": "animal2",
+    "wordTypeExample": "eagle",
+    "prompt": "Enter the name of another animal: ",
+    "helpText": "Enter the name of another animal that can be found in the Rocky Mountains."
+  }
+]
